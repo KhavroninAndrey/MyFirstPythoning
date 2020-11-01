@@ -22,7 +22,7 @@ elif c == 'mod':
         x = a % b
         print(x)
     else:
-        print('Деление на 0!')
+        print('Деление н а 0!')
 elif c == 'pow':
     x = a ** b
     print(x)
